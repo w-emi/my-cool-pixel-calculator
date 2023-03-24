@@ -1,0 +1,33 @@
+.row {
+  margin-top: 10px;
+}
+.calc-input {
+  font-size: 70px;
+}
+.reset {
+  background-color: #beb000;
+}
+.functions {
+  background-color: #d5ab9c;
+}
+.num {
+  background-color: #635651;
+}
+#calculator-keys {
+  border-radius: 35px;
+  color: white;
+  font-size: 30px;
+  margin-left: 10px;
+  padding: 5px 20px;
+}
+.equal-to {
+  background-color: #b5592a;
+}
+
+.container {
+  max-width: 500px;
+  margin-top: 55px;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: #473f3b;
+}
